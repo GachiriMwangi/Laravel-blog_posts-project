@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: azure;
+    margin: auto;
+    padding: auto;
+    background-repeat: no-repeat;
+}
+
+table{
+    border: 0.5px solid;
+}
+
